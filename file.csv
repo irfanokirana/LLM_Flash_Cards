@@ -1,0 +1,10 @@
+front|back
+Supervised Learning 🤖|Subset of machine learning that predicts a target label given labeled data.
+Classification 🎯|Subset of supervised learning where the target class is discrete.
+Regression 📈|Subset of supervised learning where the target class is continuous.
+Confusion Matrix 🤔|Matrix displaying model performance in classification.
+Precision, Recall, F-1 Score 📊|Metrics to evaluate classification performance for each class.
+Mean Squared Error (MSE) 📉|Average of squared differences between real and predicted values in regression.
+k-Nearest Neighbors (kNN) 🧮|Simple method for supervised learning based on nearest points.
+Decision Trees 🌳|Tree-like structure used for making decisions in supervised learning.
+Random Forests 🌲|Ensemble method of decision trees to improve model performance.
