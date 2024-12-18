@@ -1,0 +1,4 @@
+PyPDF2
+pandas
+openai==0.28
+playsound

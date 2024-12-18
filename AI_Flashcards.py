@@ -65,7 +65,7 @@ size = flashcard_number
 #START OPENAI
 
 #load key
-openai.api_key = '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'
+openai.api_key = 'enter-api-key-here'
 
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
